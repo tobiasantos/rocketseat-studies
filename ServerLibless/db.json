@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "a5e6daae-0878-4437-bcdd-734391f30648",
+      "name": "toras bi",
+      "email": "tobias1@seubone.com"
+    },
+    {
+      "name": "tobias2",
+      "email": "tobias@seubone.com",
+      "id": "a39ccbef-9cfb-41f0-9140-e90273b88187"
+    }
+  ]
+}
